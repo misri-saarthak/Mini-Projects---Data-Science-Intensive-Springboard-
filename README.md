@@ -13,4 +13,4 @@ The topics covered broadly include:
 
 The source code for each assignment is included in jupyter notebook files.
 
-# Programming Language: Python
+Programming Language: Python
