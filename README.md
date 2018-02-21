@@ -11,6 +11,6 @@ The topics covered broadly include:
                           
                           * Machine Learning (Supervised & Unsupervised Learning).
 
-All the source code is included in jupyter notebook files.
+The source code for each assignment is included in jupyter notebook files.
 
 Programming Language: Python
